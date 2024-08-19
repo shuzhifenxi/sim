@@ -4,9 +4,6 @@
 [mitm]
 hostname = api.pxxgg.xyz, api.ujvnmkx.cn, api.yijingluowangluo.xyz
 
-*************************************/
-
-
 var body = $response.body;
 var chxm1023 = JSON.parse(body);
 
